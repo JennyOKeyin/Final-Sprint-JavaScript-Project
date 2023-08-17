@@ -1,0 +1,39 @@
+[
+  {
+    "exercise": "Jogging",
+    "description": "Jogging is a cardiovascular exercise that involves running at a steady and moderate pace",
+    "results": "Improves cardiovascular endurance, boosts metabolism, burns calories, strengthens leg muscles, and enhance mood and mental well-being",
+    "reps": "20-30 minutes"
+  },
+
+  {
+    "exercise": "Push-Ups",
+    "description": "Push-ups are a bodyweight exercise that involves lowering your body to the ground and pushing back up using your arms",
+    "results": "Improves posture, builds muscle mass, and enhances overall upper-body stability and coordination",
+    "reps": "3 sets of 10-15 repetitions with a short rest between sets"
+  },
+  {
+    "exercise": "Yoga",
+    "description": "Yoga combines physical postures, breathing exercises, and meditation. Focuses on the mind-body connection",
+    "results": "Increases flexibility, improves muscle tone and strength, reduces stress and anxiety, enhances mindfulness, and promotes a sense of inner calm",
+    "reps": "Hold each pose for 30 seconds to a minute or more"
+  },
+  {
+    "exercise": "Plank",
+    "description": "The plank is an isometric core exercise that involves holding a position similar to the top of a push-up. It engages the core muscles, including the abs and lower back",
+    "results": "Strengthens and enhances the core muscles, improves stability and balance, reduces back pain, and enhance overall core strength for better posture",
+    "reps": "Starting with 20-30 seconds and gradually increasing the time"
+  },
+  {
+    "exercise": "Cycling",
+    "description": "Riding a bicycle outdoors or on a stationary bike. It is a low-impact cardiovascular exercise that targets the legs and promotes aerobic fitness",
+    "results": "Improves cardiovascular health, tones leg muscles, burn calories, and boosts mood",
+    "reps": "Approx 30 minutes"
+  },
+  {
+    "exercise": "Stretching",
+    "description": "Stretching involves gently lengthening and elongating the muscles to improve flexibility and range of motion. It can be done as part of a warm-up or cool-down routine",
+    "results": "Improves flexibility and posture, reduces the risk of injury, relieves muscle tension, and promotes relaxation and stress relief",
+    "reps": "Hold for 15-30 seconds per stretch and repeated 2-4 times for each muscle group"
+  }
+]
