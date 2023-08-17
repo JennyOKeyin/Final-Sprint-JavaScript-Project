@@ -2,6 +2,6 @@
 
 Final Sprint, JavaScript Project
 
-BY; Jennifer Oliver
+By: Jennifer Oliver
 
 Date: August 17, 2023
